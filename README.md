@@ -1,2 +1,2 @@
-# KRS
-The Kids Ride Share System 
+# NRE
+The Naswillow Real Eastate NFT App
